@@ -1,3 +1,8 @@
+### Education
+**Missouri University of Science and Technology** -- Rolla, Mo -- **Aug 2019 - May 2023**
+- Bachelor of Science in Computer Science 
+- 3.80 GPA
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Jacob-PV/CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
