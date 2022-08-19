@@ -1,16 +1,24 @@
 ## Education
-**Missouri University of Science and Technology** -- Rolla, Mo
+**Missouri University of Science and Technology** -- Rolla, Mo <br/>
 **Aug 2019 - May 2023**
 - Bachelor of Science in Computer Science 
 - 3.80 GPA
 
 ## Experience
-**U.S. Air Force 76th Software Engineering Group** -- Computer Science Intern
+**U.S. Air Force 76th Software Engineering Group** -- Computer Science Intern <br/>
 Tinker AFB, OK -- **June 2022 - Aug 2022**
 - Followed the agile framework to fix bugs and add features to programs in a timely manner
 - Worked in a team to incorporate new code into large, pre-existing code bases
 - Learned to work with a large variety of coding languages to update logic for older projects
 - Gave weekly presentations along with daily standups to update supervisors and coworkers on progress
+
+**Mars Rover Design Team** -- Missouri University of Science and Technology <br />
+Autonomy Lead – **Dec 2021 - present**
+- Led a team of over ten members to develop, test, and implement elements of computer vision and autonomous
+navigation onto a rover
+- Coordinated with other team leads to ensure a smooth integration of projects
+- Presented weekly updates of the sub team’s progress to the rest of the design team 
+
 
 ## Welcome to GitHub Pages
 
