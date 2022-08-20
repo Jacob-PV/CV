@@ -1,10 +1,12 @@
 ## Education
+---
 ### **Missouri University of Science and Technology** -- Rolla, Mo 
 **Aug 2019 - May 2023**
 - Bachelor of Science in Computer Science 
 - 3.80 GPA
 
 ## Experience
+---
 ### **U.S. Air Force 76th Software Engineering Group** -- Computer Science Intern
 Tinker AFB, OK -- **June 2022 - Aug 2022**
 - Followed the agile framework to fix bugs and add features to programs in a timely manner
@@ -18,7 +20,8 @@ Autonomy Lead – **Dec 2021 - present**
 navigation onto a rover
 - Coordinated with other team leads to ensure a smooth integration of projects
 - Presented weekly updates of the sub team’s progress to the rest of the design team 
-<br/>Software Team Member – **Aug 2021 - Dec 2021**<br/>
+<!-- -->
+Software Team Member – **Aug 2021 - Dec 2021**
 - Collaborated on a team to develop code to autonomously maneuver a rover over rough terrain
 - Developed code to allow a rover to navigate between two points using GPS
 - Worked to allow a rover to transition autonomously through a state machine using Python
@@ -42,7 +45,9 @@ Springfield, MO -- **Oct 2018 - Aug 2019**
 - Guided visitors throughout the various activities of the farm 
 
 ## Skills
+---
 Python, C++, C#, C, SQL, HTML/CSS, Git, Linux
 
 ## Activities
+---
 Baseball, Tennis, Golf, Mountain Biking 
