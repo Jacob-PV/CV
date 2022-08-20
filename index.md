@@ -20,6 +20,7 @@ Tinker AFB, OK -- **June 2022 - Aug 2022**
 navigation onto a rover
 - Coordinated with other team leads to ensure a smooth integration of projects
 - Presented weekly updates of the sub team’s progress to the rest of the design team 
+
 #### Software Team Member – **Aug 2021 - Dec 2021**
 - Collaborated on a team to develop code to autonomously maneuver a rover over rough terrain
 - Developed code to allow a rover to navigate between two points using GPS
