@@ -15,13 +15,12 @@ Tinker AFB, OK -- **June 2022 - Aug 2022**
 - Gave weekly presentations along with daily standups to update supervisors and coworkers on progress
 
 ### **Mars Rover Design Team** -- Missouri University of Science and Technology
-Autonomy Lead – **Dec 2021 - present**
+#### Autonomy Lead – **Dec 2021 - present**
 - Led a team of over ten members to develop, test, and implement elements of computer vision and autonomous
 navigation onto a rover
 - Coordinated with other team leads to ensure a smooth integration of projects
 - Presented weekly updates of the sub team’s progress to the rest of the design team 
-<!-- -->
-Software Team Member – **Aug 2021 - Dec 2021**
+#### Software Team Member – **Aug 2021 - Dec 2021**
 - Collaborated on a team to develop code to autonomously maneuver a rover over rough terrain
 - Developed code to allow a rover to navigate between two points using GPS
 - Worked to allow a rover to transition autonomously through a state machine using Python
