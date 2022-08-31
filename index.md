@@ -15,6 +15,8 @@ Tinker AFB, OK -- **June 2022 - Aug 2022**
 - Gave weekly presentations along with daily standups to update supervisors and coworkers on progress
 
 ### **Mars Rover Design Team** -- Missouri University of Science and Technology
+[Website](https://marsrover.mst.edu/)
+ / [Code](https://github.com/MissouriMRDT/Autonomy_Software)
 #### Autonomy Lead – **Dec 2021 - present**
 - Led a team of over ten members to develop, test, and implement elements of computer vision and autonomous
 navigation onto a rover
@@ -27,12 +29,16 @@ navigation onto a rover
 - Worked to allow a rover to transition autonomously through a state machine using Python
 
 ### **Android App** – Creator
+[App](https://play.google.com/store/apps/details?id=com.QuadS.IdlePirateAdventure&gl=US)
+ / [Code](https://github.com/Jacob-PV/TheIdlePirate)
 - Developed a mobile game with over 400 downloads by utilizing the Unity framework (C#) and published it on the
 Google Play Store
 - Rolled out updates by learning from users’ requests to improve the overall enjoyability and performance of the app
 - Enabled the app to function on a wide array of devices by performing thorough product testing 
 
 ### Stock Analysis Website – Creator
+[Website](https://jacob-pv-stockanalysiswebsite-main-dwt1ex.streamlitapp.com)
+ / [Code](https://github.com/Jacob-PV/StockAnalysisWebsite)
 - Deployed a website using Streamlit (Python) to analyze different stock metrics and theories such as the best day to
 set reoccurring investments based off when you get paid
 - Created a user-friendly experience by utilizing interactive graphics and charts with the Pandas and Plotly libraries
