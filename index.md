@@ -14,9 +14,19 @@ Tinker AFB, OK -- **June 2022 - Aug 2022**
 - Learned to work with a large variety of coding languages to update logic for older projects
 - Gave weekly presentations along with daily standups to update supervisors and coworkers on progress
 
+### **Missouri S&T Research Team** -- Research Assistant
+Rolla, MO -- **Aug 2022 - present**
+-	Developing an app to facilitate communication in underground mines
+-	Using Java, XML, and Android Studio to design the layout and functionality of the app
+
 ### **Mars Rover Design Team** -- Missouri University of Science and Technology
 [Website](https://marsrover.mst.edu/)
  / [Code](https://github.com/MissouriMRDT/Autonomy_Software)
+#### Software Architect – June 2022 - present
+-	Leading a series of python trainings for new members
+-	Conducting code reviews to ensure all new code is up to standards
+-	Coordinating with other team leads to ensure a smooth integration of projects
+
 #### Autonomy Lead – **Dec 2021 - present**
 - Led a team of over ten members to develop, test, and implement elements of computer vision and autonomous
 navigation onto a rover
